@@ -1,0 +1,20 @@
+(lp1
+S'Sun Jul  5 07:29:49 1992::bmoodi@pthvmquxmfgl.edu::710292589-6-12 '
+p2
+aS'Tue Aug 16 06:11:25 1983::pglcadx@wnzdcrskh.net::429833485-7-9 '
+p3
+aS'Sat Mar 21 21:37:06 2026::falmbch@mevoqms.org::1774100226-7-7 '
+p4
+aS'Thu Feb 12 05:02:52 2004::mwgb@mhnwjreox.org::1076533372-4-9 '
+p5
+aS'Thu Mar 28 07:11:56 2019::fkpoe@fzlipmtpcvql.org::1553728316-5-12 '
+p6
+aS'Wed Sep 13 17:03:35 2023::wzdgoh@qiotksu.gov::1694595815-6-7 '
+p7
+aS'Tue May  5 11:21:49 1992::lxjuoe@mvcxkchsm.org::705036109-6-9 '
+p8
+aS'Mon Mar 28 16:43:45 1977::sskslz@auwouwjiamjn.net::228386625-6-12 '
+p9
+aS'Tue Jun 16 04:32:18 1981::qhozys@itjzdg.org::361485138-6-6 '
+p10
+a.
